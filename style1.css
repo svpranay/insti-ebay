@@ -1,0 +1,57 @@
+#left
+{
+position:absolute;
+left:100px;
+top:100px;
+background-color: yellow;
+}
+
+#right 
+{
+position:absolute;
+left:1200px;
+top:100px;
+background-color: yellow;
+}
+
+#body {
+	background-color: yellow;
+	font-style: italic;
+	font-family: arial, helvetica, sans-serif;
+}
+
+#body-green {
+	background-color: green;
+	font-style: italic;
+	font-family: arial, helvetica, sans-serif;
+}
+
+#body-blue {
+	background-color: blue;
+	font-style: italic;
+	font-family: arial, helvetica, sans-serif;
+}
+
+table,td,th
+{
+border:1px solid black;
+}
+table
+{
+width:100%;
+}
+th
+{
+height:50px;
+}
+table, td, th
+{
+height:50px;
+widht:400px;
+border:1px solid green;
+}
+th
+{
+background-color:green;
+color:white;
+}

@@ -1,0 +1,16 @@
+1. Email system
+2. Highest bidder computation  and storing.
+3. Accepting only if bid is higher.
+4. Input validation across various places 
+5. Sql injection protection
+6. Previously bid active items
+7. Sold out items
+8. Trustworthiness measure
+9. GUI modification
+10. Only insti junta should be able to access
+11. Store ip for dos attacks
+12. Removing password form the php file 
+13. Viewing items based on category. 
+14. Category input validation 
+
+ 
